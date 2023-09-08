@@ -8,3 +8,4 @@ Irene
 lawrence
 Mba
 New Era Solutions Academy
+We have successfully resolved the conflict
