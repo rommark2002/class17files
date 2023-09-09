@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Welcome to my super caculator!"
+echo "This is my super calculator!"
 
 sleep 2
 
@@ -15,5 +15,7 @@ read -p "second number:" num2
 echo "Enter operator"
 
 read op
+
+sleep 2
 
 echo "The result of $num1 and $num2 is $(($num1 $op $num2))"
