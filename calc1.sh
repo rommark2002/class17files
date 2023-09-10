@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "This is my super calculator!"
+echo "Welcome to my super simple arithimetic calculator!"
 
 sleep 2
 
@@ -19,3 +19,7 @@ read op
 sleep 2
 
 echo "The result of $num1 and $num2 is $(($num1 $op $num2))"
+
+sleep 1
+
+cowsay "Thank you"
